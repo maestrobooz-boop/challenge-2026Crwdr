@@ -1,5 +1,9 @@
 # Challenge Automation 2026 - Cypress + JUnit
 
+
+Repo: https://github.com/maestrobooz-boop/challenge-2026Crwdr
+
+
 Cypress es JavaScript y JUnit es Java: este proyecto usa **JUnit 5 (Maven) como orquestador** que ejecuta los specs de **Cypress** por CLI, valida el resultado y genera el reporte **XML JUnit** (Surefire).
 
 - Casos de prueba: [`docs/casos-de-prueba.pdf`](docs/casos-de-prueba.pdf)
